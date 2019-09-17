@@ -10,4 +10,4 @@
 * 您可以克隆本仓库以下载此软件
 * 也可以单击[此处](https://github.com/ZANGTAO-shabi/-YUAN-/raw/master/EXE%20Programs/%E6%B1%82%E5%9C%86%E9%9D%A2%E7%A7%AF%E5%B7%A5%E5%85%B7.exe "单击此处以下载中文版")下载中文版 单击[此处](https://github.com/ZANGTAO-shabi/-YUAN-/raw/master/EXE%20Programs/Calculate%20the%20circular%20area.exe "单击此处以下载英文版")下载英文版
 * 软件图标
-<br> ![](https://github.com/ZANGTAO-shabi/-YUAN-/blob/master/images/%E6%97%A9%E7%94%9F%E8%B4%B5%E5%AD%90.jpg)
+<br> ![](![](https://github.com/ZANGTAO-shabi/-YUAN-/blob/master/images/icon_64x64.ico)
